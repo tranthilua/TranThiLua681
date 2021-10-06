@@ -8,6 +8,7 @@ namespace TranThiLua681.Models
         [Key]
         [StringLength(20, MinimumLength = 3)]
         public int TLLId { get; set; }
+        
          [StringLength(50, MinimumLength = 3)]
         public string TTLName { get; set; }
         public string TTLGender { get; set; }
