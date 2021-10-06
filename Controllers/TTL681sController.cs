@@ -55,6 +55,7 @@ namespace TranThiLua681.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("TLLId,TTLName,TTLGender")] TTL681 tTL681)
         {
+            
             if (ModelState.IsValid)
             {
                 _context.Add(tTL681);
