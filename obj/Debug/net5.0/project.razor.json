@@ -15619,13 +15619,43 @@
   "RootNamespace": "TranThiLua681",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\Person681s\\Index.cshtml",
+      "TargetPath": "Views\\Person681s\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\TTL681s\\Delete.cshtml",
+      "TargetPath": "Views\\TTL681s\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\TTL681s\\Index.cshtml",
+      "TargetPath": "Views\\TTL681s\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\TTL681s\\Edit.cshtml",
+      "TargetPath": "Views\\TTL681s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\TTL681s\\Details.cshtml",
+      "TargetPath": "Views\\TTL681s\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\TTL681s\\Create.cshtml",
+      "TargetPath": "Views\\TTL681s\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15644,8 +15674,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\Person681s\\Delete.cshtml",
+      "TargetPath": "Views\\Person681s\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\Person681s\\Edit.cshtml",
+      "TargetPath": "Views\\Person681s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\Person681s\\Create.cshtml",
+      "TargetPath": "Views\\Person681s\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\TranThiLua681\\TranThiLua681\\Views\\Person681s\\Details.cshtml",
+      "TargetPath": "Views\\Person681s\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
